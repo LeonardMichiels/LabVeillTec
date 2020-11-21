@@ -8,7 +8,7 @@ author: "Léonard Michiels"
 
 Selon-moi, une bonne partie de la veille technologique passe aussi par la compréhension du monde qui nous entoure. Il est, en effet, nécessaire de bien comprendre que ces avancées technologiques se passe dans un cadre sociétal complexe et en constant mouvance. C'est pourquoi je consulte régulièrement [VisualCapitalist](https://www.visualcapitalist.com/) qui offre un panel de sujets et de thèmes conséquent de la [technologies](https://www.visualcapitalist.com/category/technology/) à la [santé](https://www.visualcapitalist.com/category/healthcare/) en passant par la [politique](https://www.visualcapitalist.com/category/politics/).
 
-> ![image-20201121140233260](/img/figures/site)
+> ![image-20201121140233260](../public/img/figures/site.png)
 
 ### Un exemple en particulier : [L'état de la couverture 5g dans le monde](https://www.visualcapitalist.com/visualizing-the-state-of-5g-networks-worldwide/) 
 
@@ -16,7 +16,7 @@ On apprends dans cet article que le nombre de connexion 5g dans le monde va en a
 
 Difficile de se représenter les écarts entre les différents pays voir continents à cette échelle. Et c'est pour cela que j'apprécie beaucoup ce site. En effet, celui-ci fournit généralement des infographies de qualités pour mieux comprendre et appréhender une situation ou un problème. Ici nous avons accès à cette infographie (version hd [ici](https://www.visualcapitalist.com/wp-content/uploads/2020/10/The-Global-State-of-5G.html)):
 
-![image-20201121141005390](/img/figures/fig1)
+![image-20201121141005390](../public/img/figures/fig1.png)
 
 #### Conclusions
 
