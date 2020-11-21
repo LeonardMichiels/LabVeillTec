@@ -4,81 +4,28 @@ date: "2020-11-21"
 author: "Léonard Michiels"
 ---
 
-## Header 2
+## Kesako ?
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. **Donec quis dolor nec nunc mollis interdum vel in purus**. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.
+Selon-moi, une bonne partie de la veille technologique passe aussi par la compréhension du monde qui nous entoure. Il est, en effet, nécessaire de bien comprendre que ces avancées technologiques se passe dans un cadre sociétal complexe et en constant mouvance. C'est pourquoi je consulte régulièrement [VisualCapitalist](https://www.visualcapitalist.com/) qui offre un panel de sujets et de thèmes conséquent de la [technologies](https://www.visualcapitalist.com/category/technology/) à la [santé](https://www.visualcapitalist.com/category/healthcare/) en passant par la [politique](https://www.visualcapitalist.com/category/politics/).
 
-> Fusce pharetra suscipit orci nec tempor. Quisque vitae sem sit amet sem mollis consequat. Sed at imperdiet lorem. Vestibulum pharetra faucibus odio, ac feugiat tellus sollicitudin at. Pellentesque varius tristique mi imperdiet dapibus. Duis orci odio, sodales lacinia venenatis sit amet, feugiat et diam.
+> ![image-20201121140233260](C:\Users\michi\AppData\Roaming\Typora\typora-user-images\image-20201121140233260.png)
 
-### Header 3
+### Un exemple en particulier : [L'état de la couverture 5g dans le monde](https://www.visualcapitalist.com/visualizing-the-state-of-5g-networks-worldwide/) 
 
-Nulla libero turpis, lacinia vitae cursus ut, auctor dictum nisl. Fusce varius felis nec sem ullamcorper, at convallis nisi vestibulum. Duis risus odio, porta sit amet placerat mollis, tincidunt non mauris. Suspendisse fringilla, `odio a dignissim pharetra`, est urna sollicitudin urna, eu scelerisque magna ex vitae tellus.
+On apprends dans cet article que le nombre de connexion 5g dans le monde va en augmentant et atteindra les 1.8 milliard aux alentours de 2025.
 
-```css
-/* PostCSS code */
+Difficile de se représenter les écarts entre les différents pays voir continents à cette échelle. Et c'est pour cela que j'apprécie beaucoup ce site. En effet, celui-ci fournit généralement des infographies de qualités pour mieux comprendre et appréhender une situation ou un problème. Ici nous avons accès à cette infographie (version hd [ici](https://www.visualcapitalist.com/wp-content/uploads/2020/10/The-Global-State-of-5G.html)):
 
-pre {
-  background: #1a1a1d;
-  padding: 20px;
-  border-radius: 8px;
-  font-size: 1rem;
-  overflow: auto;
+![image-20201121141005390](C:\Users\michi\AppData\Roaming\Typora\typora-user-images\image-20201121141005390.png)
 
-  @media (--phone) {
-    white-space: pre-wrap;
-    word-wrap: break-word;
-  }
+#### Conclusions
 
-  code {
-    background: none !important;
-    color: #ccc;
-    padding: 0;
-    font-size: inherit;
-  }
-}
-```
+En parcourant ce documents on s'aperçoit assez vite de plusieurs points:
 
-```js
-// JS code
+- La plupart des pays européens sont à la traîne par rapport à l'Asie;
+- Les prévisions tendent vers un agrandissement de ce gap;
+- Les opérateurs annoncent tous (96 opérateurs différents dans 413 pays) un développement ou une mise en place prochaine de services 5g;
 
-const menuTrigger = document.querySelector('.menu-trigger')
-const menu = document.querySelector('.menu')
-const mobileQuery = getComputedStyle(document.body).getPropertyValue('--phoneWidth')
-const isMobile = () => window.matchMedia(mobileQuery).matches
-const isMobileMenu = () => {
-  menuTrigger.classList.toggle('hidden', !isMobile())
-  menu.classList.toggle('hidden', isMobile())
-}
+On peut ensuite réfléchir quant au retard de l'Europe. A quoi est-il dû ? (Polémique autour de la 5g, moyens, ... etc) Quels sont les conséquences pour l'Europe si, comme les prévisions semble le dire, l'Europe ne réagit pas ?
 
-isMobileMenu()
-
-menuTrigger.addEventListener('click', () => menu.classList.toggle('hidden'))
-
-window.addEventListener('resize', isMobileMenu)
-```
-
-```html
-<!-- HTML code -->
-
-<section id="main">
-  <div>
-   <h1 id="title">{{ .Title }}</h1>
-    {{ range .Pages }}
-      {{ .Render "summary"}}
-    {{ end }}
-  </div>
-</section>
-```
-
-#### Header 4
-
-Curabitur scelerisque felis viverra varius scelerisque. Ut enim libero, molestie gravida blandit at, mollis ornare tellus. Cras arcu mi, ultrices vel pulvinar vel, volutpat eu tortor. Nullam nec eros quis massa ultrices iaculis sed in metus. Praesent sollicitudin sem sit amet orci tempor gravida.
-
-- Maecenas elementum vitae nibh vitae porttitor.
-- Aenean consequat, risus ut cursus placerat, arcu nulla sodales risus, ut molestie tellus tellus et dui.
-- Integer imperdiet turpis vitae lacus imperdiet, ut ornare ligula auctor. Integer in mi eu velit vehicula suscipit eget vulputate nulla.
-- Etiam vitae enim quis velit lobortis placerat a ut sem.
-  - Curabitur lobortis ante sit amet orci pulvinar, sollicitudin viverra nunc accumsan.
-  - Praesent fermentum orci quis leo facilisis posuere.
-
-Aliquam erat volutpat. In hac habitasse platea dictumst. Nunc ut tincidunt mauris. Sed at gravida risus, id semper magna. Nullam vitae enim mattis, sodales neque non, pharetra elit. Cras sit amet sagittis augue, et finibus turpis. Ut tempus tincidunt diam vel pharetra. Nulla porttitor odio sit amet nulla scelerisque, quis aliquam mi imperdiet. Sed tincidunt dui vel tellus vestibulum rhoncus. Donec tempus ultrices velit.
+En allant plus loin, j'ai trouvé (toujours sur [VisualCapitalist](https://www.visualcapitalist.com/5g-revolution-digital-age/)) un autre article comparatif entre la 4g et la 5g. On y constate la très large supériorité de la 5g et ce soit en terme de vitesse, latence, et connectivité. Le plus important est que cette technologie est utilisée dans tous les domaines (transport, santé, production), par conséquent prendre du retard dans ce domaine serait très impactant.
