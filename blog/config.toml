@@ -6,7 +6,7 @@ paginate = 5
 [params]
   # dir name of your main content (default is `content/posts`).
   # the list of set content will show up on your index page (baseurl).
-  contentTypeName = "posts"
+  contentTypeName = "post"
 
   # ["orange", "blue", "red", "green", "pink"]
   themeColor = "blue"
@@ -21,7 +21,7 @@ paginate = 5
   fullWidthTheme = true
 
   # center theme with default width
-  centerTheme = true
+  centerTheme = false
 
   # set a custom favicon (default is a `themeColor` square)
   # favicon = "favicon.ico"
@@ -67,6 +67,6 @@ paginate = 5
         name = "LabVeillTech"
         url = "/labveilltech"
       [[languages.en.menu.main]]
-        identifier = "phenomenestechnologiques"
-        name = "Phénomènes technologiques"
-        url = "/phenomenestechnologiques"
+        identifier = "Tech"
+        name = "Tech"
+        url = "/post/tech"
