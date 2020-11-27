@@ -1,5 +1,5 @@
 +++
-title = "LabVeillTech"
+title = "À propos"
 date = "2020-11-21"
 author = "Léonard Michiels"
 +++

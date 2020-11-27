@@ -63,10 +63,10 @@ paginate = 5
 
     [languages.en.menu]
       [[languages.en.menu.main]]
-        identifier = "labveilltech"
-        name = "LabVeillTech"
-        url = "/labveilltech"
+        identifier = "À propos"
+        name = "À propos"
+        url = "/À propos"
       [[languages.en.menu.main]]
-        identifier = "Tech"
-        name = "Tech"
-        url = "/post/tech"
+        identifier = "Phénomènes technologiques"
+        name = "Phénomènes technologiques"
+        url = "/post/Phénomènes technologiques"
