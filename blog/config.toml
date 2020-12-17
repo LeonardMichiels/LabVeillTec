@@ -21,7 +21,7 @@ paginate = 5
   fullWidthTheme = true
 
   # center theme with default width
-  centerTheme = false
+  centerTheme = true
 
   # set a custom favicon (default is a `themeColor` square)
   # favicon = "favicon.ico"
@@ -70,3 +70,16 @@ paginate = 5
         identifier = "Phénomènes technologiques"
         name = "Phénomènes technologiques"
         url = "/post/Phénomènes technologiques"
+      [[languages.en.menu.main]]
+        identifier = "Raytracing"
+        name = "Raytracing"
+        url = "/post/Raytracing"
+[[languages.en.menu.main]]
+        identifier = "Developpement"
+        name = "Developpement"
+        url = "/post/Developpement"
+    
+ [[languages.en.menu.main]]
+        identifier = "UX game design"
+        name = "UX game design"
+        url = "/post/UX game design"

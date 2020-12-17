@@ -6,24 +6,33 @@
     <description>Recent content in Posts on Terminal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Phénomènes technologiques</title>
-      <link>/post/tech/</link>
-      <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
+      <title>Developpement</title>
+      <link>/post/developpement/</link>
+      <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/tech/</guid>
-      <description>Kesako ? Selon-moi, une bonne partie de la veille technologique passe aussi par la compréhension du monde qui nous entoure. Il est, en effet, nécessaire de bien comprendre que ces avancées technologiques se passe dans un cadre sociétal complexe et en constant mouvance. C&amp;rsquo;est pourquoi je consulte régulièrement VisualCapitalist qui offre un panel de sujets et de thèmes conséquent de la technologies à la santé en passant par la politique.</description>
+      <guid>/post/developpement/</guid>
+      <description>De l&amp;rsquo;importance de se tenir au courant quand on dev Lorsque l&amp;rsquo;on est dans le monde du développement il est nécessaire d&amp;rsquo;aller chercher des inspirations ainsi que des petits ticks/tricks auprès de ces pairs. C&amp;rsquo;est pourquoi je consulte régulièrement quelques sources:
+ https://h.daily-dev-tips.com/ (petit tips quotidiens) https://hashnode.com/?source=blog-footer (blog avec axes variés) https://codepen.io/ (référence en matière de partage de code)  Un exemple ici: https://codepen.io/b1tn3r/pen/erLqbQ On peut ici voir un exemple de codepen éditable directement sur le site tant au niveau de l&amp;rsquo;html qu&amp;rsquo;au niveau du css et du js.</description>
     </item>
     
     <item>
-      <title>Hello Friend</title>
-      <link>/post/hello/</link>
-      <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
+      <title>Raytracing</title>
+      <link>/post/raytracing/</link>
+      <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/hello/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. Donec quis dolor nec nunc mollis interdum vel in purus. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.
- Fusce pharetra suscipit orci nec tempor.</description>
+      <guid>/post/raytracing/</guid>
+      <description>Qu&amp;rsquo;est ce que le ray tracing ? Le ray tracing est une façon nouvelle de gérer la lumières dans les productions vidéoludiques et autres produits médias. Pour s&amp;rsquo;effectuer cette technologie fait appel à un moteur physique qui a pour tâche principale de définir les propriétés de la lumière selon la ou les sources d&amp;rsquo;émission. On atteind donc un réalisme bluffant dans les scènes 3D ainsi crées. Chaque surface de la scène va réagir différement en fonction de sa position par rapport à la source d&amp;rsquo;émission mais aussi par rapport à sa propre texture.</description>
+    </item>
+    
+    <item>
+      <title>Phénomènes technologiques</title>
+      <link>/post/ph%C3%A9nom%C3%A8nes-technologiques/</link>
+      <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/ph%C3%A9nom%C3%A8nes-technologiques/</guid>
+      <description>Kesako ? Selon-moi, une bonne partie de la veille technologique passe aussi par la compréhension du monde qui nous entoure. Il est, en effet, nécessaire de bien comprendre que ces avancées technologiques se passe dans un cadre sociétal complexe et en constant mouvance. C&amp;rsquo;est pourquoi je consulte régulièrement VisualCapitalist qui offre un panel de sujets et de thèmes conséquent de la technologies à la santé en passant par la politique.</description>
     </item>
     
   </channel>
