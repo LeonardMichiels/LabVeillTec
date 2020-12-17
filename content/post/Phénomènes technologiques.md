@@ -8,7 +8,7 @@ author: "Léonard Michiels"
 
 Selon-moi, une bonne partie de la veille technologique passe aussi par la compréhension du monde qui nous entoure. Il est, en effet, nécessaire de bien comprendre que ces avancées technologiques se passe dans un cadre sociétal complexe et en constant mouvance. C'est pourquoi je consulte régulièrement [VisualCapitalist](https://www.visualcapitalist.com/) qui offre un panel de sujets et de thèmes conséquent de la [technologies](https://www.visualcapitalist.com/category/technology/) à la [santé](https://www.visualcapitalist.com/category/healthcare/) en passant par la [politique](https://www.visualcapitalist.com/category/politics/).
 
-> ![image-20201121140233260](/figures/site.png)
+> ![image-20201121140233260](/LabVeillTech/figures/site.png)
 
 ### Un exemple en particulier : [L'état de la couverture 5g dans le monde](https://www.visualcapitalist.com/visualizing-the-state-of-5g-networks-worldwide/) 
 
