@@ -19,10 +19,10 @@ https://www.driverscloud.com/fr/configuration/67292266-1/resume
 ## Config streamlabs
 
 Encoder :
-> ![image-20201121140233260](/figures/encoder.png)
+> ![image-20201121140233260](/LabVeillTec/figures/encoder.png)
 
 Audio :
-> ![image-20201121140233260](/figures/audio.png)
+> ![image-20201121140233260](/LabVeillTec/figures/audio.png)
 
 
 

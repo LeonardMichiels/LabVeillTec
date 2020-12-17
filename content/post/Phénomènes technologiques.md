@@ -16,7 +16,7 @@ On apprends dans cet article que le nombre de connexion 5g dans le monde va en a
 
 Difficile de se représenter les écarts entre les différents pays voir continents à cette échelle. Et c'est pour cela que j'apprécie beaucoup ce site. En effet, celui-ci fournit généralement des infographies de qualités pour mieux comprendre et appréhender une situation ou un problème. Ici nous avons accès à cette infographie (version hd [ici](https://www.visualcapitalist.com/wp-content/uploads/2020/10/The-Global-State-of-5G.html)):
 
-![image-20201121141005390](/figures/fig1.png)
+![image-20201121141005390](/LabVeillTec/figures/fig1.png)
 
 #### Conclusions
 
