@@ -11,7 +11,7 @@ Souvent pairé à l'UI l'ux design consiste à améliorer l'expérience utilisat
 Il s'agit de placer l'utilisateur au centre de la reflexion, plus précisémment de son ressenti en utilisant le produit média.
 
 On doit donc distinguer l'objectif du subjectif, c'est à dire ce que le produit est de l'expérience qu'il procure:
-> ![image-20201121140233260](/LabVeillTecfigures/uxgamedesign.png)
+> ![image-20201121140233260](/LabVeillTec/figures/uxgamedesign.png)
 
 ## L'UX dans le monde des jeux vidéos
 Un jeu se doit de comporter deux charactéristiques majeures lors de l'intérraction avec un utilisateur:
