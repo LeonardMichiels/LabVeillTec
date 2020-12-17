@@ -33,5 +33,5 @@ https://www.twitch.tv/videos/833837632
 https://www.twitch.tv/Sabshane
 
 ## à améliorer
-*rendu du son (moins de basses)
-*pousser la résolution de sortie vidéo plus haut
+* rendu du son (moins de basses)
+* pousser la résolution de sortie vidéo plus haut
