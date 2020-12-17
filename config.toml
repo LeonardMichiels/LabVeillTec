@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://leonardmichiels.github.io/LabVeillTec/"
 languageCode = "en-us"
 theme = "terminal"
 paginate = 5
