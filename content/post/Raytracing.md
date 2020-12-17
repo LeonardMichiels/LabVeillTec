@@ -13,7 +13,8 @@ On peut voir ici un exemple avec le jeu "Control de Remedy" avec et sans cette t
 > ![image-20201121140233260](/LabVeillTec/figures/rtx.jpg)
 
 ## Pourquoi le rendu est meilleur
-Pourquoi
+En suivant une approche naturelle de la gestion des lumière, le ray tracing apporte un image plus réaliste.
+Pas forcément plus photoréaliste mais plus en accord avec les lois de la physiques dont notre oeil et notre cerveau ont l'habitude.
 
 ### Un autre avantage
 
