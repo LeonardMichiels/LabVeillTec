@@ -12,13 +12,13 @@ paginate = 5
   themeColor = "blue"
 
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 2
+  showMenuItems = 10
 
   # show selector to switch language
   showLanguageSelector = false
 
   # set theme to full screen width
-  fullWidthTheme = true
+  fullWidthTheme = false
 
   # center theme with default width
   centerTheme = true
@@ -83,3 +83,7 @@ paginate = 5
         identifier = "UX game design"
         name = "UX game design"
         url = "/post/UX game design"
+ [[languages.en.menu.main]]
+        identifier = "streaming"
+        name = "Streaming"
+        url = "/post/streaming"

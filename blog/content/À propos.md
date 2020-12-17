@@ -12,6 +12,6 @@ j'ai mis en place ce petit blog pour regrouper les sujets qui m'intéressent et 
 - Les phénomènes technologiques actuelles
 - Les tips and tricks en matière de developpement
 - Le RayTracing
-- Les usages UX actuels
-- 
+- UX/UI in gaming
+- Expérimentation de streaming
 Chacun de ces thèmes est abordés dans un article que l'on peut consulter ici.
