@@ -14,4 +14,5 @@ j'ai mis en place ce petit blog pour regrouper les sujets qui m'intéressent et 
 - Le RayTracing
 - UX/UI in gaming
 - Expérimentation de streaming
+
 Chacun de ces thèmes est abordés dans un article que l'on peut consulter ici.
